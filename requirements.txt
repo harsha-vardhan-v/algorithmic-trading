@@ -1,0 +1,5 @@
+kiteconnect>=5.0
+python-dotenv>=1.0
+pandas>=2.0
+notebook>=7.0
+ipykernel>=6.0
